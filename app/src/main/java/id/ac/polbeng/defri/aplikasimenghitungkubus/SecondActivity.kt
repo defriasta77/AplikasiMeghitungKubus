@@ -13,6 +13,6 @@ class ResultActivity : AppCompatActivity() {
         val tvVolumeResult = findViewById<TextView>(R.id.tvVolumeResult)
 
         val volume = intent.getDoubleExtra("VOLUME_RESULT", 0.0)
-        tvVolumeResult.text = "Volume Kkubus: $volume"
+        tvVolumeResult.text = "Volume Kubus: $volume"
     }
 }
