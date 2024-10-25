@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Volume Kubus</string>
+    <string name="hint_side_length">Masukkan panjang sisi kubus</string>
+    <string name="button_calculate">Hitung Volume</string>
+    <string name="result_volume">Hasil volume akan muncul di sini</string>
+    <string name="toast_input_side_length">Masukkan panjang sisi kubus terlebih dahulu</string>
+    <string name="result_from_main">Volume kubus dari MainActivity: %1$s</string>
+    <string name="hint_new_side_length">Masukkan panjang sisi kubus baru</string>
+    <string name="button_calculate_new">Hitung Volume Baru</string>
+    <string name="result_new_volume">Volume kubus baru: %1$s</string>
+    <string name="toast_input_new_side_length">Masukkan panjang sisi baru terlebih dahulu</string>
+</resources>
